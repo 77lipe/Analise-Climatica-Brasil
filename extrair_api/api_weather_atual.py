@@ -2,7 +2,7 @@ from datetime import datetime
 import pandas as pd
 import requests
 
-url = "https://api.open-meteo.com/v1/forecast"
+
 
 params = {
     "latitude": -23.55,
@@ -11,4 +11,4 @@ params = {
 }
 
 response = requests.get(url, params=params)
-print(response.json())
+data_atual_clima = response.json()
