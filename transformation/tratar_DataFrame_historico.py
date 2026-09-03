@@ -2,10 +2,12 @@ import pandas as pd
 from datetime import datetime
 
 from transformation.converter_api_para_df import *
+from config.verificacao_dados_df_tng import verificar_dados
 
 def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
 
-    df_tratado = dataframe_bruto.copy()
+    
+    df_tratado = verificar_dados(dataframe_bruto=dataframe_bruto)
     df_tratado["time"] = pd.to_datetime(
         df_tratado["time"],
         format="%Y-%m-%d",
@@ -66,4 +68,6 @@ def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
 
 if __name__ == "__main__":
     df_bruto = converter_para_df(data_inicial="2025-07-01", data_final="2025-08-26")
-    print(tratar_DataFrame(df_bruto))
+    df_tratado = tratar_DataFrame(df_bruto)
+    #df_tratado.info()
+    print(df_tratado)

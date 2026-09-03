@@ -12,7 +12,7 @@ def salvar_df_bronze(data_frame_bruto: pd.DataFrame) -> Path:
     )
 
     data_execucao = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    nome_arquivo =  f"clima_sp_{data_execucao}.csv"
+    nome_arquivo =  f"clima_sp_{data_execucao}_lng.csv"
 
 
     caminho_arquivo = CAMINHO_BRONZE / nome_arquivo
