@@ -3,6 +3,7 @@ from datetime import datetime
 
 from transformation.converter_api_para_df import *
 from config.verificacao_dados_df_tng import verificar_dados
+from storage.cmd_silver import salvar_silver
 
 def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
 
@@ -13,6 +14,8 @@ def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
         format="%Y-%m-%d",
         errors="raise"
     )
+
+    #df_tratado[""] = df_tratado["time"].dt.date
 
     df_tratado["temperature_2m_max"] = pd.to_numeric(
         df_tratado["temperature_2m_max"],
@@ -62,6 +65,8 @@ def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
                                                 "wind_direction_10m_dominant": "Direcao_vento",
                                                 "wind_speed_10m_max": "Velocidade_vento_max"
                                                 })
+
+    salvar_silver(df_tratado)
 
     return df_tratado
 
