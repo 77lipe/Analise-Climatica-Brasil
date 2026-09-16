@@ -9,7 +9,7 @@ def extrair_api_historico(data_inicial: str, data_final: str, url=BASE_URL_HISTO
         "longitude": longitude,
         "start_date": data_inicial,
         "end_date": data_final,
-        "daily": ["temperature_2m_max", "temperature_2m_min", "temperature_2m_mean", "wind_speed_10m_max", "wind_direction_10m_dominant"]
+        "daily": ["temperature_2m_max", "temperature_2m_min", "temperature_2m_mean", "precipitation_probability_max", "rain_sum", "wind_speed_10m_max", "wind_direction_10m_dominant"]
     }
 
     response = requests.get(url, params=params)

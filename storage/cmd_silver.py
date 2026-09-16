@@ -14,9 +14,11 @@ def salvar_silver(dataframe_tratado: pd.DataFrame) -> Path:
 
     data_inicial = dataframe_tratado["Data"].min()
     data_final = dataframe_tratado["Data"].max()
+    #print(data_inicial)
+    #print(data_final)
 
-    print(data_inicial)
-    print(data_final)
+    data_inicial_str = pd.to_datetime(data_inicial).strftime("%Y-%m-%d")
+    data_final_str = pd.to_datetime(data_final).strftime("%Y-%m-%d")
 
     CAMINHO_SILVER.mkdir(
         parents=True,
@@ -24,14 +26,13 @@ def salvar_silver(dataframe_tratado: pd.DataFrame) -> Path:
     )
 
     nome_arquivo = (
-        f"clima_sp_{data_inicial}_{data_final}_tgt.csv"
+        f"clima_sp_{data_inicial_str}_{data_final_str}_tgt.csv"
     )
     caminho_arquivo = CAMINHO_SILVER / nome_arquivo
 
     dataframe_tratado.to_csv(
         caminho_arquivo,
-        index=False,
-        engine="pyarrow"
+        index=False
     )
 
     return caminho_arquivo
