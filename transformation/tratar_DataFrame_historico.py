@@ -3,7 +3,7 @@ from datetime import datetime
 
 from transformation.converter_api_para_df import *
 from config.verificacao_dados_df_tng import verificar_dados
-from storage.cmd_silver import salvar_silver
+
 
 def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
 
@@ -62,17 +62,17 @@ def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
                                            "temperature_2m_mean": "Temperatura_media",
                                              "temperature_2m_max": "Temperatura_maxima",
                                                "temperature_2m_min": "Temperatura_minima",
+                                               "precipitation_probability_max": "Probabilidade_chuva_max",
+                                               "rain_sum": "Chuva_total",
                                                 "wind_direction_10m_dominant": "Direcao_vento",
                                                 "wind_speed_10m_max": "Velocidade_vento_max"
                                                 })
 
-    salvar_silver(df_tratado)
-
     return df_tratado
 
 
-if __name__ == "__main__":
-    df_bruto = converter_para_df(data_inicial="2025-07-01", data_final="2025-08-26")
-    df_tratado = tratar_DataFrame(df_bruto)
+#if __name__ == "__main__":
+    #df_bruto = converter_para_df(data_inicial="2025-07-01", data_final="2025-08-26")
+    #df_tratado = tratar_DataFrame(df_bruto)
     #df_tratado.info()
-    print(df_tratado)
+    #print(df_tratado)
