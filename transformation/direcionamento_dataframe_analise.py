@@ -21,5 +21,5 @@ def graus_para_direcao(grau: int) -> str:
 
 def transformar_dataframe_analise(dataframe_tratado: pd.DataFrame) -> pd.DataFrame:
     dataframe_tratado["Direcao_vento"] = dataframe_tratado["Direcao_vento"].apply(graus_para_direcao)
-    dataframe_tratado = dataframe_tratado[["Data", "dia","mes", "ano", "Temperatura_media", "Temperatura_maxima", "Temperatura_minima", "Probabilidade_chuva_max", "Chuva_total", "Direcao_vento", "estado"]]
+    dataframe_tratado = dataframe_tratado[["Data", "dia","mes", "ano", "Temperatura_media", "Temperatura_maxima", "Temperatura_minima", "Probabilidade_chuva_max", "Velocidade_vento_max","Chuva_total", "Direcao_vento", "estado"]]
     return dataframe_tratado
