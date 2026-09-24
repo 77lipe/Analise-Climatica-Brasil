@@ -71,8 +71,3 @@ def tratar_DataFrame(dataframe_bruto: pd.DataFrame)-> pd.DataFrame:
     return df_tratado
 
 
-#if __name__ == "__main__":
-    #df_bruto = converter_para_df(data_inicial="2025-07-01", data_final="2025-08-26")
-    #df_tratado = tratar_DataFrame(df_bruto)
-    #df_tratado.info()
-    #print(df_tratado)

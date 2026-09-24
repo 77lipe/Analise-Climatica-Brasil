@@ -2,7 +2,7 @@ import requests
 
 from config.base_config_api import *
 
-def extrair_api_historico(data_inicial: str, data_final: str, url=BASE_URL_HISTORICA, latitude=latitude_sp, longitude=longitude_sp):
+def extrair_api_historico(data_inicial: str, data_final: str, url=BASE_URL_ANTIGA_MAXIMA, latitude=latitude_sp, longitude=longitude_sp):
     
     params = {
         "latitude": latitude,
@@ -16,6 +16,4 @@ def extrair_api_historico(data_inicial: str, data_final: str, url=BASE_URL_HISTO
     return response.json()
 
 
-if __name__ == "__main__":
-    print(extrair_api_historico(data_inicial="2026-01-01", data_final="2026-01-10"))
     
