@@ -1,0 +1,284 @@
+﻿data;empresa;Problema;Assunto;Como Comprou Contratou;Faixa Etária;Sexo;Respondida;Tempo Resposta;Situação;Nota do Consumidor
+01/09/2026;Amazon;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+01/09/2026;Amazon;Não entrega / demora na entrega do produto;Microcomputador e laptops;Internet;entre 41 a 50 anos;M;S;10.0;Finalizada não avaliada;
+01/09/2026;Amazon;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 31 a 40 anos;F;S;7.0;Finalizada avaliada;1.0
+01/09/2026;Amazon;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;M;S;4.0;Finalizada avaliada;5.0
+01/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 21 a 30 anos;F;S;10.0;Finalizada não avaliada;
+01/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 21 a 30 anos;F;S;8.0;Finalizada não avaliada;
+01/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Televisão;Internet;entre 31 a 40 anos;M;S;7.0;Finalizada não avaliada;
+01/09/2026;Centauro;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Domicílio;entre 31 a 40 anos;M;N;;Finalizada avaliada;1.0
+01/09/2026;Centauro;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;M;N;;Finalizada avaliada;3.0
+01/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;5.0;Finalizada não avaliada;
+01/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;3.0;Finalizada não avaliada;
+01/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Domicílio;entre 51 a 60 anos;M;S;2.0;Finalizada não avaliada;
+01/09/2026;Enjoei;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;até 20 anos;M;S;10.0;Finalizada não avaliada;
+01/09/2026;Enjoei;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;F;N;;Finalizada avaliada;1.0
+01/09/2026;KaBuM!;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 21 a 30 anos;M;N;;Finalizada não avaliada;
+01/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Serviço de pagamento online/ via celular/ maquininha;Internet;entre 21 a 30 anos;M;S;10.0;Finalizada não avaliada;
+01/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+01/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;F;S;7.0;Finalizada avaliada;5.0
+01/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Produtos relacionados a saúde, exceto medicamentos ( próteses, aparelhos corretivos, auxiliares de diagnóstico, produtos óticos, ortopédicos, contraceptivos etc);Internet;entre 41 a 50 anos;M;S;7.0;Finalizada avaliada;4.0
+01/09/2026;Shopee;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+01/09/2026;Shopee;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+01/09/2026;Shopee;Não entrega / demora na entrega do produto;Ar condicionado, ventilador e aquecedor;Internet;entre 21 a 30 anos;F;S;9.0;Finalizada avaliada;1.0
+02/09/2026;Amazon;Não entrega / demora na entrega do produto;Livros e papelaria (material didático, artigos de escritório, etc.);Internet;entre 21 a 30 anos;M;S;7.0;Finalizada avaliada;1.0
+02/09/2026;Carrefour.com;Não entrega / demora na entrega do produto;Televisão;Internet;entre 51 a 60 anos;M;S;5.0;Finalizada avaliada;5.0
+02/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 51 a 60 anos;F;S;10.0;Finalizada não avaliada;
+02/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+02/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;M;S;2.0;Finalizada não avaliada;
+02/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Loja física;entre 21 a 30 anos;M;S;10.0;Finalizada avaliada;1.0
+02/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Loja física;entre 21 a 30 anos;M;S;9.0;Finalizada avaliada;5.0
+02/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;F;S;4.0;Finalizada avaliada;1.0
+02/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;1.0;Finalizada não avaliada;
+02/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Não comprei / contratei;entre 31 a 40 anos;M;S;1.0;Finalizada não avaliada;
+02/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;1.0;Finalizada não avaliada;
+02/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 41 a 50 anos;M;S;1.0;Finalizada avaliada;1.0
+02/09/2026;Enjoei;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 41 a 50 anos;F;N;;Finalizada não avaliada;
+02/09/2026;Enjoei;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada avaliada;3.0
+02/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 41 a 50 anos;F;S;8.0;Finalizada não avaliada;
+02/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 51 a 60 anos;M;S;7.0;Finalizada não avaliada;
+02/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 31 a 40 anos;F;S;7.0;Finalizada avaliada;5.0
+02/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;F;S;7.0;Finalizada avaliada;3.0
+02/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Tablet;Internet;entre 21 a 30 anos;M;S;6.0;Finalizada avaliada;5.0
+02/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Microcomputador e laptops;Internet;entre 21 a 30 anos;F;S;6.0;Finalizada avaliada;5.0
+02/09/2026;Shopee;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+02/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;F;S;9.0;Finalizada avaliada;2.0
+02/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;até 20 anos;M;S;9.0;Finalizada avaliada;4.0
+03/09/2026;Amazon;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;F;S;2.0;Finalizada não avaliada;
+03/09/2026;Amazon;Não entrega / demora na entrega do produto;Livros e papelaria (material didático, artigos de escritório, etc.);Internet;entre 31 a 40 anos;F;S;7.0;Finalizada avaliada;3.0
+03/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 21 a 30 anos;M;S;10.0;Finalizada não avaliada;
+03/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 21 a 30 anos;F;S;9.0;Finalizada não avaliada;
+03/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;M;S;9.0;Finalizada não avaliada;
+03/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;até 20 anos;M;S;6.0;Finalizada não avaliada;
+03/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Ar condicionado, ventilador e aquecedor;Internet;entre 41 a 50 anos;M;S;6.0;Finalizada não avaliada;
+03/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 31 a 40 anos;M;S;9.0;Finalizada avaliada;1.0
+03/09/2026;Centauro;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;M;N;;Finalizada não avaliada;
+03/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;3.0;Finalizada não avaliada;
+03/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 51 a 60 anos;F;S;1.0;Finalizada não avaliada;
+03/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;F;S;4.0;Finalizada avaliada;1.0
+03/09/2026;Enjoei;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 31 a 40 anos;M;N;;Finalizada não avaliada;
+03/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 21 a 30 anos;F;S;9.0;Finalizada não avaliada;
+03/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 31 a 40 anos;M;S;8.0;Finalizada não avaliada;
+03/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 31 a 40 anos;F;S;8.0;Finalizada não avaliada;
+03/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;M;S;7.0;Finalizada não avaliada;
+03/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;F;S;7.0;Finalizada avaliada;1.0
+03/09/2026;Netshoes;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;F;S;4.0;Finalizada não avaliada;
+03/09/2026;Shopee;Não entrega / demora na entrega do produto;Instrumentos e acessórios musicais;Internet;entre 31 a 40 anos;F;S;9.0;Finalizada avaliada;5.0
+03/09/2026;Shopee;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;M;S;10.0;Finalizada avaliada;1.0
+03/09/2026;Shopee;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 21 a 30 anos;F;S;9.0;Finalizada avaliada;5.0
+04/09/2026;Amazon;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 31 a 40 anos;F;S;9.0;Finalizada avaliada;5.0
+04/09/2026;Amazon;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 41 a 50 anos;M;S;9.0;Finalizada avaliada;4.0
+04/09/2026;Americanas;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 41 a 50 anos;M;S;2.0;Finalizada avaliada;1.0
+04/09/2026;Carrefour.com;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 31 a 40 anos;F;S;8.0;Finalizada avaliada;1.0
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;M;S;9.0;Finalizada não avaliada;
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Domicílio;entre 21 a 30 anos;M;S;9.0;Finalizada não avaliada;
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;M;S;9.0;Finalizada não avaliada;
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 31 a 40 anos;F;S;8.0;Finalizada não avaliada;
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 21 a 30 anos;M;S;8.0;Finalizada não avaliada;
+04/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Fogão, microondas, forno elétrico, depurador de ar e coifa;Internet;entre 51 a 60 anos;F;S;8.0;Finalizada avaliada;1.0
+04/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Não comprei / contratei;entre 51 a 60 anos;F;S;1.0;Finalizada não avaliada;
+04/09/2026;Magalu;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 31 a 40 anos;F;S;10.0;Finalizada avaliada;5.0
+04/09/2026;Magalu;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;até 20 anos;M;S;6.0;Finalizada avaliada;1.0
+04/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 51 a 60 anos;M;S;8.0;Finalizada não avaliada;
+04/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Microcomputador e laptops;Internet;entre 21 a 30 anos;F;S;8.0;Finalizada não avaliada;
+04/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Instrumentos e acessórios musicais;Internet;entre 31 a 40 anos;M;S;7.0;Finalizada não avaliada;
+04/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Segurança / monitoramento / rastreamento;Internet;entre 61 a 70 anos;M;S;9.0;Finalizada avaliada;1.0
+04/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 21 a 30 anos;F;S;5.0;Finalizada avaliada;1.0
+04/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 21 a 30 anos;F;S;6.0;Finalizada avaliada;5.0
+04/09/2026;Netshoes;Não entrega / demora na entrega do produto;Esporte/Lazer/Festa (equipamento de ginástica, camping, náutica, caça, pesca, artigo esportivo, bicicleta, piscina, etc.);Internet;entre 21 a 30 anos;M;S;4.0;Finalizada não avaliada;
+04/09/2026;Shopee;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+04/09/2026;Shopee;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 31 a 40 anos;M;S;10.0;Finalizada avaliada;1.0
+08/09/2026;Amazon;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 31 a 40 anos;F;S;6.0;Finalizada não avaliada;
+08/09/2026;Amazon;Não entrega / demora na entrega do produto;Tablet;Internet;entre 31 a 40 anos;F;S;4.0;Finalizada não avaliada;
+08/09/2026;Amazon;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;F;S;3.0;Finalizada não avaliada;
+08/09/2026;Amazon;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 61 a 70 anos;F;S;9.0;Finalizada avaliada;5.0
+08/09/2026;Amazon;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 51 a 60 anos;M;S;10.0;Finalizada avaliada;5.0
+08/09/2026;Amazon;Não entrega / demora na entrega do produto;Esporte/Lazer/Festa (equipamento de ginástica, camping, náutica, caça, pesca, artigo esportivo, bicicleta, piscina, etc.);Internet;entre 61 a 70 anos;M;S;1.0;Finalizada avaliada;1.0
+08/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Loja física;entre 21 a 30 anos;M;S;10.0;Finalizada não avaliada;
+08/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 21 a 30 anos;M;S;4.0;Finalizada não avaliada;
+08/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Televisão;Catálogo;entre 41 a 50 anos;M;S;9.0;Finalizada avaliada;1.0
+08/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;F;S;7.0;Finalizada avaliada;1.0
+08/09/2026;Centauro;Não entrega / demora na entrega do produto;Esporte/Lazer/Festa (equipamento de ginástica, camping, náutica, caça, pesca, artigo esportivo, bicicleta, piscina, etc.);Internet;entre 21 a 30 anos;M;N;;Finalizada não avaliada;
+08/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 41 a 50 anos;M;S;1.0;Finalizada não avaliada;
+08/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;O;S;3.0;Finalizada avaliada;1.0
+08/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;4.0;Finalizada avaliada;3.0
+08/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;M;S;4.0;Finalizada avaliada;1.0
+08/09/2026;Loggi;Não entrega / demora na entrega do produto;Serviços de entrega / delivery;Internet;entre 41 a 50 anos;M;S;10.0;Finalizada não avaliada;
+08/09/2026;Loggi;Não entrega / demora na entrega do produto;Serviços de entrega / delivery;Internet;entre 21 a 30 anos;F;S;6.0;Finalizada não avaliada;
+08/09/2026;Magalu;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 51 a 60 anos;M;S;9.0;Finalizada avaliada;4.0
+08/09/2026;Magalu;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 51 a 60 anos;F;S;3.0;Finalizada avaliada;3.0
+08/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Veículos ? Peças e Acessórios (roda, pneu, rádio, farol, etc.);Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+08/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Veículos ? Peças e Acessórios (roda, pneu, rádio, farol, etc.);Internet;entre 51 a 60 anos;M;S;7.0;Finalizada não avaliada;
+08/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 31 a 40 anos;M;S;7.0;Finalizada avaliada;2.0
+08/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;F;S;8.0;Finalizada avaliada;5.0
+08/09/2026;Netshoes;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;M;S;9.0;Finalizada avaliada;4.0
+08/09/2026;Shopee;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+08/09/2026;Shopee;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 41 a 50 anos;F;S;10.0;Finalizada não avaliada;
+08/09/2026;Shopee;Não entrega / demora na entrega do produto;Acessório para eletroeletrônicos (pilhas, baterias etc);Internet;entre 21 a 30 anos;F;S;9.0;Finalizada não avaliada;
+09/09/2026;Amazon;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;mais de 70 anos;M;S;3.0;Finalizada avaliada;1.0
+09/09/2026;Amazon;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+09/09/2026;Amazon;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+09/09/2026;Amazon;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 31 a 40 anos;M;S;9.0;Finalizada não avaliada;
+09/09/2026;Amazon;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 31 a 40 anos;M;S;4.0;Finalizada não avaliada;
+09/09/2026;Amazon;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 31 a 40 anos;F;S;5.0;Finalizada avaliada;4.0
+09/09/2026;Amazon;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 61 a 70 anos;F;S;6.0;Finalizada avaliada;1.0
+09/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 31 a 40 anos;F;S;10.0;Finalizada não avaliada;
+09/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 21 a 30 anos;M;S;9.0;Finalizada não avaliada;
+09/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;F;S;8.0;Finalizada avaliada;2.0
+09/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;F;S;7.0;Finalizada avaliada;2.0
+09/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;F;S;2.0;Finalizada não avaliada;
+09/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Loja física;entre 31 a 40 anos;M;S;1.0;Finalizada não avaliada;
+09/09/2026;Enjoei;Não entrega / demora na entrega do produto;Livros e papelaria (material didático, artigos de escritório, etc.);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+09/09/2026;Loggi;Não entrega / demora na entrega do produto;Serviços de entrega / delivery;Não comprei / contratei;entre 31 a 40 anos;M;S;9.0;Finalizada avaliada;5.0
+09/09/2026;Magalu;Não entrega / demora na entrega do produto;Tablet;Internet;entre 21 a 30 anos;M;S;8.0;Finalizada não avaliada;
+09/09/2026;Magalu;Não entrega / demora na entrega do produto;Fogão, microondas, forno elétrico, depurador de ar e coifa;Internet;entre 31 a 40 anos;F;S;6.0;Finalizada não avaliada;
+09/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 21 a 30 anos;F;S;8.0;Finalizada não avaliada;
+09/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Esporte/Lazer/Festa (equipamento de ginástica, camping, náutica, caça, pesca, artigo esportivo, bicicleta, piscina, etc.);Internet;entre 21 a 30 anos;F;S;8.0;Finalizada não avaliada;
+09/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 31 a 40 anos;M;S;7.0;Finalizada não avaliada;
+09/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 41 a 50 anos;M;S;7.0;Finalizada não avaliada;
+09/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;M;S;7.0;Finalizada não avaliada;
+09/09/2026;Netshoes;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;F;S;4.0;Finalizada não avaliada;
+09/09/2026;Netshoes;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;M;S;8.0;Finalizada avaliada;5.0
+09/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;F;S;9.0;Finalizada não avaliada;
+10/09/2026;Amazon;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 21 a 30 anos;M;S;9.0;Finalizada não avaliada;
+10/09/2026;Amazon;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 21 a 30 anos;F;S;9.0;Finalizada avaliada;1.0
+10/09/2026;Amazon;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;M;S;7.0;Finalizada avaliada;1.0
+10/09/2026;Carrefour.com;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 41 a 50 anos;M;S;1.0;Finalizada avaliada;5.0
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Televisão;Internet;entre 21 a 30 anos;M;S;10.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Fogão, microondas, forno elétrico, depurador de ar e coifa;Internet;entre 51 a 60 anos;M;S;10.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 51 a 60 anos;M;S;9.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 51 a 60 anos;M;S;9.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 61 a 70 anos;F;S;9.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Loja física;entre 21 a 30 anos;F;S;8.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 51 a 60 anos;M;S;8.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 31 a 40 anos;F;S;7.0;Finalizada não avaliada;
+10/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Televisão;Internet;entre 21 a 30 anos;M;S;3.0;Finalizada não avaliada;
+10/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;M;S;1.0;Finalizada não avaliada;
+10/09/2026;Enjoei;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 21 a 30 anos;M;S;10.0;Finalizada não avaliada;
+10/09/2026;Magalu;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+10/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Fogão, microondas, forno elétrico, depurador de ar e coifa;Internet;entre 21 a 30 anos;F;S;7.0;Finalizada não avaliada;
+10/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Produtos Veterinários (ração, acessórios etc);Internet;entre 41 a 50 anos;F;S;5.0;Finalizada não avaliada;
+10/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;F;S;7.0;Finalizada avaliada;1.0
+10/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 51 a 60 anos;M;S;9.0;Finalizada avaliada;5.0
+10/09/2026;Netshoes;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;M;S;1.0;Finalizada não avaliada;
+10/09/2026;Shopee;Não entrega / demora na entrega do produto;Veículos ? Peças e Acessórios (roda, pneu, rádio, farol, etc.);Internet;entre 31 a 40 anos;M;S;8.0;Finalizada não avaliada;
+10/09/2026;Shopee;Não entrega / demora na entrega do produto;Livros e papelaria (material didático, artigos de escritório, etc.);Internet;até 20 anos;F;S;10.0;Finalizada avaliada;5.0
+16/09/2026;Amazon;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;F;S;8.0;Finalizada não avaliada;
+16/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 41 a 50 anos;F;S;9.0;Finalizada não avaliada;
+16/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Loja física;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+16/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Televisão;Internet;entre 21 a 30 anos;F;S;8.0;Finalizada não avaliada;
+16/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 31 a 40 anos;F;S;6.0;Finalizada não avaliada;
+16/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 61 a 70 anos;F;S;8.0;Finalizada avaliada;5.0
+16/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;até 20 anos;M;S;4.0;Finalizada não avaliada;
+16/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 41 a 50 anos;F;S;3.0;Finalizada avaliada;1.0
+16/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;F;S;0.0;Finalizada avaliada;4.0
+16/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;2.0;Finalizada avaliada;5.0
+16/09/2026;Fast Shop;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 41 a 50 anos;F;S;7.0;Finalizada avaliada;3.0
+16/09/2026;Magalu;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 41 a 50 anos;F;S;6.0;Finalizada avaliada;1.0
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Instrumentos e acessórios musicais;Internet;entre 31 a 40 anos;M;S;9.0;Finalizada não avaliada;
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 51 a 60 anos;F;S;9.0;Finalizada não avaliada;
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 41 a 50 anos;F;S;8.0;Finalizada não avaliada;
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 31 a 40 anos;M;S;8.0;Finalizada não avaliada;
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Microcomputador e laptops;Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;F;S;7.0;Finalizada não avaliada;
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 31 a 40 anos;M;S;7.0;Finalizada não avaliada;
+16/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Microcomputador e laptops;Internet;entre 31 a 40 anos;M;S;6.0;Finalizada avaliada;4.0
+16/09/2026;Shopee;Não entrega / demora na entrega do produto;Material de construção, acabamento e ferramentas;Internet;entre 61 a 70 anos;F;S;10.0;Finalizada não avaliada;
+16/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;F;S;10.0;Finalizada não avaliada;
+16/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;F;S;9.0;Finalizada não avaliada;
+18/09/2026;Amazon;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+18/09/2026;Amazon;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+18/09/2026;Amazon;Não entrega / demora na entrega do produto;Televisão;Internet;entre 31 a 40 anos;F;S;8.0;Finalizada não avaliada;
+18/09/2026;Amazon;Não entrega / demora na entrega do produto;Televisão;Internet;entre 51 a 60 anos;F;S;8.0;Finalizada não avaliada;
+18/09/2026;Amazon;Não entrega / demora na entrega do produto;Esporte/Lazer/Festa (equipamento de ginástica, camping, náutica, caça, pesca, artigo esportivo, bicicleta, piscina, etc.);Internet;entre 21 a 30 anos;M;S;7.0;Finalizada não avaliada;
+18/09/2026;Amazon;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;entre 51 a 60 anos;M;S;3.0;Finalizada não avaliada;
+18/09/2026;Carrefour.com;Não entrega / demora na entrega do produto;Esporte/Lazer/Festa (equipamento de ginástica, camping, náutica, caça, pesca, artigo esportivo, bicicleta, piscina, etc.);Internet;entre 41 a 50 anos;M;S;9.0;Finalizada não avaliada;
+18/09/2026;Carrefour.com;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 21 a 30 anos;F;S;7.0;Finalizada não avaliada;
+18/09/2026;Carrefour.com;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 41 a 50 anos;F;S;8.0;Finalizada avaliada;5.0
+18/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 21 a 30 anos;M;S;10.0;Finalizada não avaliada;
+18/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 51 a 60 anos;F;S;8.0;Finalizada não avaliada;
+18/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 41 a 50 anos;F;S;10.0;Finalizada avaliada;4.0
+18/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Televisão;Internet;entre 41 a 50 anos;F;S;5.0;Finalizada avaliada;1.0
+18/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;F;S;4.0;Finalizada não avaliada;
+18/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 31 a 40 anos;M;S;3.0;Finalizada não avaliada;
+18/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;M;S;2.0;Finalizada não avaliada;
+18/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 41 a 50 anos;M;S;2.0;Finalizada avaliada;4.0
+18/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 51 a 60 anos;M;S;4.0;Finalizada avaliada;1.0
+18/09/2026;Dafiti;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;F;S;5.0;Finalizada avaliada;5.0
+18/09/2026;Jadlog;Não entrega / demora na entrega do produto;Cargas e Encomendas;Internet;entre 31 a 40 anos;F;N;;Finalizada não avaliada;
+18/09/2026;Jadlog;Não entrega / demora na entrega do produto;Cargas e Encomendas;Internet;entre 31 a 40 anos;F;N;;Finalizada não avaliada;
+18/09/2026;Jadlog;Não entrega / demora na entrega do produto;Cargas e Encomendas;Não comprei / contratei;entre 41 a 50 anos;M;N;;Finalizada avaliada;1.0
+18/09/2026;Magalu;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 21 a 30 anos;M;N;;Finalizada não avaliada;
+18/09/2026;Magalu;Não entrega / demora na entrega do produto;Ar condicionado, ventilador e aquecedor;Internet;entre 21 a 30 anos;M;S;2.0;Finalizada não avaliada;
+18/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;M;S;8.0;Finalizada não avaliada;
+18/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+18/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;F;S;8.0;Finalizada não avaliada;
+18/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;M;S;7.0;Finalizada não avaliada;
+18/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;M;S;6.0;Finalizada não avaliada;
+18/09/2026;Netshoes;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 51 a 60 anos;M;S;8.0;Finalizada não avaliada;
+18/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+24/09/2026;Amazon;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+24/09/2026;Amazon;Não entrega / demora na entrega do produto;Material de construção, acabamento e ferramentas;Internet;entre 21 a 30 anos;M;S;7.0;Finalizada não avaliada;
+24/09/2026;Amazon;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;F;S;3.0;Finalizada não avaliada;
+24/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+24/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Loja física;entre 51 a 60 anos;F;S;10.0;Finalizada não avaliada;
+24/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 31 a 40 anos;M;S;10.0;Finalizada não avaliada;
+24/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Demais aparelhos de comunicação;Internet;entre 51 a 60 anos;F;S;8.0;Finalizada não avaliada;
+24/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;F;S;8.0;Finalizada não avaliada;
+24/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 51 a 60 anos;M;S;2.0;Finalizada não avaliada;
+24/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;F;S;8.0;Finalizada avaliada;1.0
+24/09/2026;Centauro;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;M;N;;Finalizada não avaliada;
+24/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Não comprei / contratei;até 20 anos;M;S;4.0;Finalizada não avaliada;
+24/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;M;S;2.0;Finalizada não avaliada;
+24/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Não comprei / contratei;entre 31 a 40 anos;M;S;2.0;Finalizada não avaliada;
+24/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;F;S;1.0;Finalizada não avaliada;
+24/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 41 a 50 anos;M;S;4.0;Finalizada avaliada;1.0
+24/09/2026;Magalu;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 41 a 50 anos;M;S;10.0;Finalizada não avaliada;
+24/09/2026;Magalu;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;M;S;8.0;Finalizada não avaliada;
+24/09/2026;Magalu;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 31 a 40 anos;M;S;6.0;Finalizada não avaliada;
+24/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 21 a 30 anos;F;S;10.0;Finalizada não avaliada;
+24/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 31 a 40 anos;F;S;8.0;Finalizada não avaliada;
+24/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Veículos ? Peças e Acessórios (roda, pneu, rádio, farol, etc.);Internet;entre 31 a 40 anos;M;S;9.0;Finalizada avaliada;4.0
+24/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Veículos ? Peças e Acessórios (roda, pneu, rádio, farol, etc.);Não comprei / contratei;entre 61 a 70 anos;F;S;7.0;Finalizada avaliada;5.0
+24/09/2026;Shopee;Não entrega / demora na entrega do produto;Produtos para crianças (carrinho, brinquedos, cadeira, vestuário, mamadeira, etc);Internet;entre 31 a 40 anos;F;S;9.0;Finalizada não avaliada;
+24/09/2026;Shopee;Não entrega / demora na entrega do produto;Perfumaria, cosméticos e higiene pessoal;Internet;até 20 anos;F;S;9.0;Finalizada não avaliada;
+24/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 31 a 40 anos;M;S;9.0;Finalizada não avaliada;
+24/09/2026;Shopee;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 31 a 40 anos;F;N;;Finalizada avaliada;1.0
+24/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 51 a 60 anos;M;S;7.0;Finalizada avaliada;4.0
+25/09/2026;Amazon;Não entrega / demora na entrega do produto;Acessório para eletroeletrônicos (pilhas, baterias etc);Internet;entre 21 a 30 anos;M;S;5.0;Finalizada não avaliada;
+25/09/2026;Amazon;Não entrega / demora na entrega do produto;Televisão;Internet;entre 41 a 50 anos;F;S;10.0;Finalizada avaliada;1.0
+25/09/2026;Amazon;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 31 a 40 anos;M;S;9.0;Finalizada avaliada;3.0
+25/09/2026;Carrefour.com;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 41 a 50 anos;F;S;3.0;Finalizada avaliada;1.0
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 51 a 60 anos;F;S;10.0;Finalizada não avaliada;
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 21 a 30 anos;F;S;10.0;Finalizada não avaliada;
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 21 a 30 anos;F;S;10.0;Finalizada não avaliada;
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 41 a 50 anos;M;S;10.0;Finalizada não avaliada;
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 31 a 40 anos;M;S;8.0;Finalizada não avaliada;
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;F;S;7.0;Finalizada não avaliada;
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Refrigerador / freezer;Telefone;entre 51 a 60 anos;F;S;7.0;Finalizada não avaliada;
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 31 a 40 anos;F;S;3.0;Finalizada avaliada;5.0
+25/09/2026;Casas Bahia;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 31 a 40 anos;M;S;8.0;Finalizada avaliada;5.0
+25/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Loja física;entre 41 a 50 anos;M;S;4.0;Finalizada não avaliada;
+25/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Loja física;entre 31 a 40 anos;F;S;4.0;Finalizada não avaliada;
+25/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Não comprei / contratei;entre 41 a 50 anos;M;S;4.0;Finalizada avaliada;3.0
+25/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 51 a 60 anos;M;S;2.0;Finalizada avaliada;4.0
+25/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 41 a 50 anos;M;S;2.0;Finalizada avaliada;1.0
+25/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;M;S;1.0;Finalizada avaliada;1.0
+25/09/2026;Correios;Não entrega / demora na entrega do produto;Serviços Postais;Internet;entre 21 a 30 anos;M;S;2.0;Finalizada avaliada;5.0
+25/09/2026;Fast Shop;Não entrega / demora na entrega do produto;Lavadora de roupa, louça e secadora;Internet;entre 41 a 50 anos;M;S;7.0;Finalizada não avaliada;
+25/09/2026;Magalu;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 21 a 30 anos;F;S;5.0;Finalizada não avaliada;
+25/09/2026;Magalu;Não entrega / demora na entrega do produto;Refrigerador / freezer;Internet;entre 21 a 30 anos;M;S;2.0;Finalizada não avaliada;
+25/09/2026;Magalu;Não entrega / demora na entrega do produto;Móveis e Colchões;Internet;entre 41 a 50 anos;M;N;;Finalizada avaliada;1.0
+25/09/2026;Magalu;Não entrega / demora na entrega do produto;Televisão;Internet;entre 21 a 30 anos;M;S;7.0;Finalizada avaliada;1.0
+25/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Aparelho celular;Internet;entre 51 a 60 anos;F;S;7.0;Finalizada não avaliada;
+25/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Material de construção, acabamento e ferramentas;Internet;entre 51 a 60 anos;F;S;6.0;Finalizada não avaliada;
+25/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 21 a 30 anos;F;S;8.0;Finalizada avaliada;5.0
+25/09/2026;Mercado Livre;Não entrega / demora na entrega do produto;Acessórios e periféricos (monitor, impressora, pendrive, hd externo, cd dvd, outras midias, roteador, software, scanner etc);Internet;entre 21 a 30 anos;M;S;9.0;Finalizada avaliada;5.0
+25/09/2026;Shopee;Não entrega / demora na entrega do produto;Eletroportáteis ( batedeira, liquidificador, umidificador, secador, cafeteira etc );Internet;entre 41 a 50 anos;F;S;10.0;Finalizada não avaliada;
+25/09/2026;Shopee;Não entrega / demora na entrega do produto;Utilidades Domésticas e Decoração (para limpeza, cozinha, cama, mesa e banho, tapetes, cortinas, persianas, jardinagem etc);Internet;entre 21 a 30 anos;F;S;8.0;Finalizada não avaliada;
+25/09/2026;Shopee;Não entrega / demora na entrega do produto;Aparelho de som, video e imagem ( Câmera, filmadora, dvd, home theater etc);Internet;entre 41 a 50 anos;M;S;8.0;Finalizada não avaliada;
+25/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 41 a 50 anos;F;S;8.0;Finalizada avaliada;1.0
+25/09/2026;Shopee;Não entrega / demora na entrega do produto;Vestuário e Artigos de Uso Pessoal (roupa, calçados, jóias, bijuterias, malas, bolsas, etc);Internet;entre 21 a 30 anos;F;S;8.0;Finalizada avaliada;5.0
