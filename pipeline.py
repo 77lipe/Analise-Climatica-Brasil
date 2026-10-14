@@ -18,4 +18,4 @@ def executar_pipeline(data_inicial: str, data_final: str) -> pd.DataFrame:
     return df_analise_g
 
 if __name__ == "__main__":
-    df_analise = executar_pipeline(data_inicial="1982-01-01", data_final="1982-09-20")
+    df_analise = executar_pipeline(data_inicial="2026-01-01", data_final="2026-09-30")
